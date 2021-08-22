@@ -70,7 +70,7 @@ const IndexPage = () => {
 
 return (
     <main style={pageStyles}>
-      <title>Home Page</title>
+      <title>Swiss train check</title>
       <h1 style={headingStyles}>
         Lookup for next trains in 🇨🇭
       </h1>

@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
-    title: "My Gatsby Site",
+    siteUrl: "https://swiss-train-check.netlify.app/",
+    title: "Gatsby swiss train check",
   },
   plugins: ["gatsby-plugin-styled-components"],
 };
