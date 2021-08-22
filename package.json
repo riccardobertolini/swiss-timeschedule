@@ -1,0 +1,28 @@
+{
+  "name": "my-gatsby-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My Gatsby Site",
+  "author": "Riccardo Bertolini",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "babel-plugin-styled-components": "^1.13.2",
+    "date-fns": "^2.23.0",
+    "gatsby": "^3.11.1",
+    "gatsby-plugin-styled-components": "^4.12.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-search-autocomplete": "^5.4.2",
+    "styled-components": "^5.3.0"
+  }
+}
